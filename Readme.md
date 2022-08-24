@@ -13,6 +13,7 @@ This project is a clone of Rode website. Rode is an microphone manufacturing com
 4. Backgrounds and borders etc.
 
 ## Project Link
+https://rodecloneresponsive.netlify.app/
 
 
 ## Time taken to complete the project
